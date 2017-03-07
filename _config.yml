@@ -14,9 +14,9 @@ highlighter: rouge
 
 
 ### content configuration ###
-title:       "DataRescue SF Bay"
+title:       "DataRescue WUSTL"
 keywords:    ""
-description: "Home page for the DataRescue SF Bay"
+description: "Home page for the DataRescue WUSTL"
 source_link: 
 favicon:     "img/data_rescue_sf_favicon.jpg"
 touch_icon:  "data_rescue_sf_favicon.jpg"
