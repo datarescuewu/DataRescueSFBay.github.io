@@ -1,6 +1,6 @@
-# Data Rescue SF Bay
+# Data Rescue WUSTL
 
-Code for the website: [http://datarescuesfbay.org/](http://datarescuesfbay.org/)
+Code for the website: [http://datarescuewu.github.io](http://datarescuewu.github.io)
 
 ---
 
