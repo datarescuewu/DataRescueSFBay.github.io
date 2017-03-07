@@ -4,4 +4,4 @@
 &mdash;
 this site is open source
 &mdash;
-created by [<i class="fa fa-github"></i> DataRescueSFBay](https://github.com/DataRescueSFBay)
+created by [<i class="fa fa-github"></i> DataRescueWU](https://github.com/DataRescueWU)
